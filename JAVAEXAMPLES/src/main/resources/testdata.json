@@ -1,0 +1,17 @@
+{
+  "Name": "Balakrishna",
+  "Age" : "32",
+  "userId": "balakrishnatulabandula@gmail.com",
+  "password" : "JJJJ@111",
+	"Marks" : [
+		{
+		"T" : 50,
+		"E" : 48
+		},{
+		"T" : 50,
+		"E" : 48
+		}
+		
+	]
+
+}
